@@ -15,3 +15,8 @@ print('abc')
 print(a,end="#")
 print(a,b,sep="@",end="*")
 print("abc")
+
+a,b,c=2,3,4
+print (a , b , c , end=" 33 ")
+print (b , a , sep=" 56" )
+print (a,sep="%")
