@@ -20,3 +20,6 @@ a,b,c=2,3,4
 print (a , b , c , end=" 33 ")
 print (b , a , sep=" 56" )
 print (a,sep="%")
+
+# single line comment 
+''' multi-line comment'''
