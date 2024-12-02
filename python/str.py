@@ -15,3 +15,6 @@ print(x[-2])
 print(x[-3])
 
 print(x,type(x))
+
+a="abc"
+print(x,type(x))
