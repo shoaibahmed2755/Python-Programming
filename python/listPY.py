@@ -17,5 +17,5 @@
 # a=[24,81,61,92,85]
 # print(a[0:5:4])
 
-a=[2,8,9,27,67,25] 
-print(a[0:6]) #default step value is --> 1
+# a=[2,8,9,27,67,25] 
+# print(a[0:6]) #default step value is --> 1
