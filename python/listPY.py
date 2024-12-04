@@ -10,6 +10,9 @@
 # print(a)
 # print(a,type(a))
 
-a=[2,64,25,81,'abc',True]
-print(a[1:4:1])
-print(a[-5:-2:1])
+# a=[2,64,25,81,'abc',True]
+# print(a[1:4:1])
+# print(a[-5:-2:1])
+
+a=[24,81,61,92,85]
+print(a[0:5:4])
