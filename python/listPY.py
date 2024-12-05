@@ -19,3 +19,8 @@
 
 # a=[2,8,9,27,67,25] 
 # print(a[0:6]) #default step value is --> 1
+
+a=[2,4,6,8,10]
+print(a[::-1])
+print(a[4::-1])
+print(a[::-1])
