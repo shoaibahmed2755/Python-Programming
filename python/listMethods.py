@@ -2,8 +2,8 @@
 #  1.append() --> add 1 ele at the last of the list 
 #  2.insert() --> add 1 ele at the specified position
 #  3.extend() --> add multiple elements at the last of the list
-a=[3,11,56,67,45,90,"abc"]
-print(a)
+# a=[3,11,56,67,45,90,"abc"]
+# print(a)
 
 # append() -->
 # a.append(100)
@@ -22,5 +22,15 @@ print(a)
 # a.insert(-1,200)
 # print(a)
 
-a.extend([11,22,33])
+# append() -->
+# a.extend([11,22,33])
+# print(a)
+
+a=[3,5,6,7]
+print(a)
+a.append("aabc")
+print(a)
+a.extend("abc")
+print(a)
+a.extend(["abc"])
 print(a)
