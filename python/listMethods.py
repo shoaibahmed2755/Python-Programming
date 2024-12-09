@@ -26,11 +26,20 @@
 # a.extend([11,22,33])
 # print(a)
 
-a=[3,5,6,7]
-print(a)
-a.append("aabc")
-print(a)
-a.extend("abc")
-print(a)
-a.extend(["abc"])
+# a=[3,5,6,7]
+# print(a)
+# a.append("aabc")
+# print(a)
+# a.extend("abc")
+# print(a)
+# a.extend(["abc"])
+# print(a)
+
+#Removing elements inside the list 
+    # 1.pop() --> remove one ele form the list by using the Index
+    # 2.remove() --> remove one ele
+    # 3.del() --> remove one or more ele 
+    # 4.clear() --> remove all the ele in the list
+    
+a=[1,2,3,4,5,6,7,8,9]
 print(a)
