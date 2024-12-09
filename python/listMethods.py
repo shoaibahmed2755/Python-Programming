@@ -40,10 +40,27 @@
     # 2.remove() --> remove one ele
     # 3.del() --> remove one or more ele 
     # 4.clear() --> remove all the ele in the list
-    
+
 a=[1,2,3,4,5,6,7,8,9]
 print(a)
-a.remove(1)
-print(a)
-a.remove(9)
-print(a)
+
+# remove()
+# a.remove(1)
+# print(a)
+# a.remove(9)
+# print(a)
+
+# pop()
+# a.pop(0)
+# print(a)
+# a.pop(7)
+# print(a)
+
+# clear()
+# a.clear()
+# print(a)
+
+# del:
+# del a
+# print(a)
+
