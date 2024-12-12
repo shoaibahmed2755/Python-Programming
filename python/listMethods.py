@@ -64,3 +64,4 @@ print(a)
 # del a
 # print(a)
 
+# Other methods 
